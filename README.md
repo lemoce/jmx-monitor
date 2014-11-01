@@ -6,7 +6,7 @@ It is small program for monitoring Java local process on S.O. . It was written i
 Usage
 -----
 
-jmx-monitor ``<pid>` `[<mbean name> <attribute to monitor>]``
+``jmx-monitor <pid> [<mbean name> <attribute to monitor>]``
 
 Output
 ------
