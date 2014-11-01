@@ -11,4 +11,4 @@ jmx-monitor ``<pid>` `[<mbean name> <attribute to monitor>]``
 Output
 ------
 
-Program writes csv line with all selected attributes each 1 second
+Program writes csv line with all selected attributes each 1 second.
